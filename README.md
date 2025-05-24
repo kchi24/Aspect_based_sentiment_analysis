@@ -15,4 +15,4 @@ This is a preliminary project experimenting with aspect-based sentiment analysis
 - Pandas, Numpy, Matplotlib, Seaborn
 - Scikit-learn  
 - Huggingface Transformers
-
+- Pytorch
