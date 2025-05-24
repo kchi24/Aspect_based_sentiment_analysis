@@ -16,6 +16,3 @@ This is a preliminary project experimenting with aspect-based sentiment analysis
 - Scikit-learn  
 - Huggingface Transformers
 
-## Notes
-This project is still a work in progress and serves as a learning experiment. The results and models are not yet fully optimized or production-ready.
-
